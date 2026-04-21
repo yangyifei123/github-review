@@ -1,0 +1,12 @@
+{
+  "name": "github-review",
+  "version": "1.0.0",
+  "description": "AI-powered code review GitHub Action",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "keywords": ["github", "action", "ai", "code-review"],
+  "author": "Yang Yifei",
+  "license": "MIT"
+}
